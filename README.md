@@ -12,5 +12,5 @@ Cours aérodynamique pour Ingénieurs d'exploitation de la navigation aérienne
 
 [Module 5 : Aérodynamique compressible](./Cours/Aerodynamique_M5_Compressible.pdf)
 ___________________________________________________________________________________________________________________________
-# Mécanique de vol
-[Mécanique_du_vol_2025](./Mécanique_du_vol_2025.pdf)
+# Mécanique du vol
+[Mécanique_du_vol_2025](./Cours/Mécanique_du_vol_2025.pdf)
