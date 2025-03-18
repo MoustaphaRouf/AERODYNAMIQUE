@@ -11,3 +11,6 @@ Cours aérodynamique pour Ingénieurs d'exploitation de la navigation aérienne
 [Module 4 : Vitesses de l’air, dispositifs hypersustentateurs et hyposustentateurs, et centre aérodynamique](./Cours/Aerodynamique_M4.pdf)
 
 [Module 5 : Aérodynamique compressible](./Cours/Aerodynamique_M5_Compressible.pdf)
+___________________________________________________________________________________________________________________________
+# Mécanique de vol
+[Mécanique_du_vol_2025](./Mécanique_du_vol_2025.pdf)
