@@ -16,6 +16,6 @@ ________________________________________________________________________________
 [Mécanique_du_vol_2025](./Cours/Mécanique_du_vol_2025.pdf)
 ___________________________________________________________________________________________________________________________
 # TRAVAUX PRATIQUES
-[Travaux pratiques : Prise en main de l'aérodynamique numérique](./Travaux Pratiques/TP_AERODYNAMIQUE_IEAMAC_E_2025.ipynb)
+[Travaux pratiques : Prise en main de l'aérodynamique numérique](./Travaux%20Pratiques/TP_AERODYNAMIQUE_IEAMAC_E_2025.ipynb)
 
 
