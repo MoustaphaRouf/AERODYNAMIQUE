@@ -14,3 +14,7 @@ Cours aérodynamique pour Ingénieurs d'exploitation de la navigation aérienne
 ___________________________________________________________________________________________________________________________
 # Mécanique du vol
 [Mécanique_du_vol_2025](./Cours/Mécanique_du_vol_2025.pdf)
+___________________________________________________________________________________________________________________________
+# TRAVAUX PRATIQUES
+[Travaux pratiques : Prise en main de l'aérodynamique numérique ](./Travaux Pratiques/TP_AERODYNAMIQUE_IEAMAC_E_2025.ipynb)
+
