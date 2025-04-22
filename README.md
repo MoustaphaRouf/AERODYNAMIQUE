@@ -18,4 +18,8 @@ ________________________________________________________________________________
 # TRAVAUX PRATIQUES
 [Travaux pratiques : Prise en main de l'aérodynamique numérique](./Travaux%20Pratiques/TP_AERODYNAMIQUE_IEAMAC_E_2025.ipynb)
 
+___________________________________________________________________________________________________________________________
+# TRAVAUX DIRIGES
+[TD1](../Cours/TD1.pdf)
+
 
