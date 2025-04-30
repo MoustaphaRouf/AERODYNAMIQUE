@@ -19,7 +19,7 @@ ________________________________________________________________________________
 [Travaux pratiques : Prise en main de l'aérodynamique numérique](./Travaux%20Pratiques/TP_AERODYNAMIQUE_IEAMAC_E_2025.ipynb)
 
 ___________________________________________________________________________________________________________________________
-# TRAVAUX DIRIGES
+# TRAVAUX DIRIGES AERODYNAMIQUE
 [TD1](./Cours/TD1.pdf)
 
 [TD2](./Cours/TD2.pdf)
@@ -27,5 +27,9 @@ ________________________________________________________________________________
 [Données pressions](./Cours/Pressions.xlsx)
 
 [TD3](./Cours/TD3.pdf)
+
+_____________________________________________________________________________________________________________________________
+# TRAVAUX DIRIGES MECANIQUE DU VOL
+[TD1](./Cours/TD 1_Mécavol.pdf)
 
 
